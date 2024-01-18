@@ -1,10 +1,11 @@
 # BCG_Data_Science
 
-# Project Overview
+## Project Overview
 
-# Project Objectives
+## Project Objectives
 
-# Analysis done
+## Analysis done
 
-# Summary/Conclusions
+## Summary/Conclusions
+
 
