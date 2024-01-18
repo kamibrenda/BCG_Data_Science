@@ -1,5 +1,6 @@
 # BCG_Data_Science
 
+<<<<<<< HEAD
 # Project Overview
 ## Business Understanding and Hypothesis Framing
 ### Topics of interest
@@ -18,6 +19,14 @@
 # Project Objective
 Investigate the drivers for customer churning taking place at Powerco whereby the clients are switching to different providers.
 # Analysis done
+=======
+## Project Overview
 
-# Summary/Conclusions
+## Project Objectives
+
+## Analysis done
+
+## Summary/Conclusions
+>>>>>>> c6ce2a6f959075c385772f9929786b792d0a71b4
+
 
