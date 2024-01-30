@@ -1,6 +1,4 @@
 # BCG_Data_Science
-
-<<<<<<< HEAD
 # Project Overview
 ## Business Understanding and Hypothesis Framing
 ### Topics of interest
@@ -18,8 +16,10 @@
 
 # Project Objective
 Investigate the drivers for customer churning taking place at Powerco whereby the clients are switching to different providers.
+
 # Analysis done
-=======
+Price sensitivity is the degree to which demand changes when the cost of a product or service changes.
+
 ## Project Overview
 1. Business understanding & problem framing: what is the context of the problem and whats the reason for trying to solve it?
 2. Exploratory data analysis & data cleaning: what data are we working with, what does it look like and how can we make it better?
